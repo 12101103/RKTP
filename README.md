@@ -1,6 +1,6 @@
 # RKTP(Rimworld mod Translation Project)
 ## Korean localization mod for Some mods for Rimworld.
-### Thank you for downloaded this mod. (By.Xagros)
+### Thank you for downloaded this mod. (By.XingSing)
 
 Korean localization mod for Some mods for Rimworld.
 If your mod needs Korean locale file, contact me. Discussion and E-mail

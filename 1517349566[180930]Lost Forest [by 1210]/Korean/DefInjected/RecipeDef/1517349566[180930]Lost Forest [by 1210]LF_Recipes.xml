@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- LF_HolyWoodLog -->
+
+  <MakeHolyWood150.label>신성 나무의 레플리카를 만들기</MakeHolyWood150.label>
+  <MakeHolyWood150.description>목재를 바탕으로 잃어버린 고대 신성 거목의 복원을 시도합니다. 한번에 150개의 목재를 사용합니다.</MakeHolyWood150.description>
+  <MakeHolyWood150.jobString>신성 나무의 목재를 복원 중</MakeHolyWood150.jobString>
+
+
+  <!-- Compress Iron Scraps -->
+
+  <PressIronScrap.label>쇠 부스러기를 압축</PressIronScrap.label>
+  <PressIronScrap.description>쇠 부스러기 5개를 압박하고, 건축 자재로 사용할 수 있는 압축된 철갑 조각 100개를 얻습니다. 용해보다 고속으로 처리하며 뒤에서 철의 변환도 가능합니다.</PressIronScrap.description>
+  <PressIronScrap.jobString>쇠 부스러기를 압축 중.</PressIronScrap.jobString>
+
+  <PressBulkIronScraps.label>쇠 부스러기를 압축(벌크)</PressBulkIronScraps.label>
+  <PressBulkIronScraps.description>쇠 부스러기 5개를 압박하고, 건축 자재로 사용할 수 있는 압축된 철갑 조각 100개를 얻습니다. 용해보다 고속으로 처리하며 뒤에서 철의 변환도 가능합니다.</PressBulkIronScraps.description>
+  <PressBulkIronScraps.jobString>압축 스크랩을 용해 중.</PressBulkIronScraps.jobString>
+
+
+  <!-- Smelt Pressed Iron Scraps -->
+
+  <SmeltPressedIronScraps.label>압축된 철갑 조각을 용해</SmeltPressedIronScraps.label>
+  <SmeltPressedIronScraps.description>축 성형 스크랩 20개를 풀고 쇠 20개를 얻습니다. 쇠 부스러기의 용해에 비하면 다소 고속입니다.</SmeltPressedIronScraps.description>
+  <SmeltPressedIronScraps.jobString>압축 스크랩을 용해 중.</SmeltPressedIronScraps.jobString>
+
+
+  <!-- Cemetery burial -->
+
+  <LF_BuryCorpse.label>시체 묻기</LF_BuryCorpse.label>
+  <LF_BuryCorpse.description>시체를 묘지에 묻습니다.</LF_BuryCorpse.description>
+  <LF_BuryCorpse.jobString>매장하는 중.</LF_BuryCorpse.jobString>
+
+
+</LanguageData>

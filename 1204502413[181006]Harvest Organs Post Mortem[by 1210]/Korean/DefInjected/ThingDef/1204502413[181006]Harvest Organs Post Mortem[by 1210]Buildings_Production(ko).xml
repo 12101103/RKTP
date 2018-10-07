@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TableAutopsy.label>부검 테이블</TableAutopsy.label>
+  <TableAutopsy.description>사망한 사람들에게서 장기를 적출하기 위해 특별히 고안된 테이블입니다. 장기를 수술로 제거할 수 있습니다.</TableAutopsy.description>
+  <TableAutopsy_Blueprint.label>부검 테이블 (청사진)</TableAutopsy_Blueprint.label>
+  <TableAutopsy_Blueprint_Install.label>부검 테이블 (청사진)</TableAutopsy_Blueprint_Install.label>
+  <TableAutopsy_Frame.label>부검 테이블 (건설 중)</TableAutopsy_Frame.label>
+  <TableAutopsy_Frame.description>사망한 사람들에게서 장기를 적출하기 위해 특별히 고안된 테이블입니다. 장기를 수술로 제거할 수 있습니다.</TableAutopsy_Frame.description>
+</LanguageData>

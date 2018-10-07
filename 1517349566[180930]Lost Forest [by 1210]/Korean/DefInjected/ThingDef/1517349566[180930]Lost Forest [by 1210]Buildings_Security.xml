@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mortar turret -->
+
+  <LF_Turret_PrecisionMortar.label>정밀 박격포</LF_Turret_PrecisionMortar.label>
+  <LF_Turret_PrecisionMortar.description>확산이 적고, 매우 정확한 사격을 할 수 있는 박격포입니다. 주변 감시위성을 해킹하여 실시간으로 탄도보정을 실시합니다.(확산범위 : 반경 3칸)</LF_Turret_PrecisionMortar.description>
+  <LF_Turret_PrecisionMortar_Blueprint.label>정밀 박격포 (청사진)</LF_Turret_PrecisionMortar_Blueprint.label>
+  <LF_Turret_PrecisionMortar_Blueprint_Install.label>정밀 박격포 (청사진)</LF_Turret_PrecisionMortar_Blueprint_Install.label>
+  <LF_Turret_PrecisionMortar_Frame.label>정밀 박격포 (건설 중)</LF_Turret_PrecisionMortar_Frame.label>
+  <LF_Turret_PrecisionMortar_Frame.description>확산이 적고, 매우 정확한 사격을 할 수 있는 박격포입니다. 주변 감시위성을 해킹하여 실시간으로 탄도보정을 실시합니다.(확산범위 : 반경 3칸)</LF_Turret_PrecisionMortar_Frame.description>
+
+  <LF_Artillery_PrecisionMortar.label>정밀 박격포</LF_Artillery_PrecisionMortar.label>
+  <LF_Artillery_PrecisionMortar.description>정밀 박격포 발사기입니다. 확산이 적고 긴 사거리를 보유하고 있습니다.</LF_Artillery_PrecisionMortar.description>
+
+
+</LanguageData>

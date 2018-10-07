@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Foxia -->
+
+  <LF_Foxia.label>폭스니아</LF_Foxia.label>
+  <LF_Foxia.description>환상적이고 이국적인 소녀 같은 풍모를 가진 동물입니다. 그녀들의 귀과 꼬리는 기분 좋은 것 같은 털에 뒤덮이고 있어, 일견 가냘프게 보이는 그 체구는 강력한 면역을 갖고 일체의 질병을 받지 않습니다. 정령에서 신탁을 갖는 특별한 능력을 가진 이들은 과거 지도자였던 푸른 용인족을 잃은 낡은 숲에게 공동체의 장래를 결정하는 중요한 존재가 되고 있습니다. 그러나 그것은 일부 사람들에게 자신의 혈육을 표적으로 하는데 충분한 이유를 주었습니다. 원래 붙임성 있는 생물이었지만 그 동료의 대부분은 이 행성 인간들에게 붙잡히고 말았습니다. 지금은 좀처럼 남 앞에 모습을 드러내지 않습니다. 만날 수 있었다는 당신은 행운입니다. 모든 지역에 극히 드물게 출현합니다.</LF_Foxia.description>
+  <LF_Foxia.tools.0.label>차가운 손아귀 (왼손)</LF_Foxia.tools.0.label>
+  <LF_Foxia.tools.1.label>차가운 손아귀 (오른손)</LF_Foxia.tools.1.label>
+  <LF_Foxia.tools.2.label>머리</LF_Foxia.tools.2.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <LF_Foxia_Corpse.label>폭스니아의 시체</LF_Foxia_Corpse.label>
+  <LF_Foxia_Corpse.description>폭스니아의 시체</LF_Foxia_Corpse.description>
+
+
+</LanguageData>

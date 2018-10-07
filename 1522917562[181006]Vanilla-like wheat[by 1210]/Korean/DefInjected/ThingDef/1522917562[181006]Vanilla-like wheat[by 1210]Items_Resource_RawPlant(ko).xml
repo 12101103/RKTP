@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RawWheat.label>밀</RawWheat.label>
+  <RawWheat.description>짚과 곡물로 이루어진 생밀입니다. 가공할 필요가 있습니다.</RawWheat.description>
+  <Straw.label>밀짚</Straw.label>
+  <Straw.description>건조된 곡물 줄기로, 특히 사료로 사용되고, 수확되어 저장을 위해 압축됩니다. 건초는 좋은 동물 사료이지만 인간이 먹기에는 적합하지 않습니다.</Straw.description>
+</LanguageData>

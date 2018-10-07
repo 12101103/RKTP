@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Dragonia -->
+
+  <LF_Dragonia.label>드래고니아</LF_Dragonia.label>
+  <LF_Dragonia.description>그녀는 용의 혈통입니다. 그녀의 아버지는 백만 마리의 용으로부터 "푸른 신중함"으로 불렸고, 큰 숲의 대중들로부터 "진정한 지혜"로 불렸습니다. 푸른 용을 파괴한 사람들뿐만 아니라 이전에 푸른 용의 지배를 받았던 원로 숲의 사람들까지도 그녀의 존재를 알지 못합니다. 그녀는 어떤 존재에 의해 초자연적인 존재로부터 은닉하는 것으로 자라났기 때문에, 그녀는 외부 세계나 부모의 얼굴도 본 적이 없습니다. 하지만, 그녀는 불가사의한 마법과 고대 드래곤 연구에 대해 매우 높은 교육을 받은 것처럼 보였고, 특별한 어려움 없이 매우 난해한 조작 의식과 강력한 용 언어를 사용할 것입니다. 만약 당신이 그녀를 설득할 수 있다면, 당신의 식민지는 잃어버린 기술에 큰 돌파구를 갖게 될 것입니다. 그녀는 모든 생물체에 천문학적으로 낮은 확률로 나타날 것입니다. (만나더라도, 그녀는 그날 안에 그 장소를 떠날 것입니다.)</LF_Dragonia.description>
+  <LF_Dragonia.tools.0.label>코카투스 (왼손)</LF_Dragonia.tools.0.label>
+  <LF_Dragonia.tools.1.label>용인 (오른손)</LF_Dragonia.tools.1.label>
+  <LF_Dragonia.tools.2.label>코카투스 (뿔)</LF_Dragonia.tools.2.label>
+  <LF_Dragonia.tools.3.label>코카투스 (꼬리)</LF_Dragonia.tools.3.label>
+  <LF_Dragonia.tools.4.label>용인 (왼쪽 날개)</LF_Dragonia.tools.4.label>
+  <LF_Dragonia.tools.5.label>코카투스 (오른쪽 날개)</LF_Dragonia.tools.5.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <LF_Dragonia_Corpse.label>드래고니아</LF_Dragonia_Corpse.label>
+  <LF_Dragonia_Corpse.description>싸늘한 푸른 용의 후예의 시체입니다. 이제 누구도 그녀를 괴롭힐 수 없습니다.</LF_Dragonia_Corpse.description>
+
+
+</LanguageData>

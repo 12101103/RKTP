@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hats -->
+
+  <Apparel_Bandana.label>소박한 반다나</Apparel_Bandana.label>
+  <Apparel_Bandana.description>반다나는 매우 간단한 옷으로 만들어졌고, 사람들은 머리카락이 얼굴 앞에 떨어지는 것을 막기 위해 반다나를 입을 수 있습니다. 작업 속도를 약간 개선합니다.</Apparel_Bandana.description>
+
+  <Apparel_Coif.label>두건</Apparel_Coif.label>
+  <Apparel_Coif.description>중년층의 남녀 공용 복장입니다. 고온 및 저온으로부터 보호합니다.</Apparel_Coif.description>
+
+  <Apparel_Bonnet.label>보닛</Apparel_Bonnet.label>
+  <Apparel_Bonnet.description>주름진 보닛입니다.</Apparel_Bonnet.description>
+
+  <Apparel_SpWorkerHelmet.label>우주 노동자 헬멧</Apparel_SpWorkerHelmet.label>
+  <Apparel_SpWorkerHelmet.description>우주 노동자가 사용하는 플라스틸로 강화 된 풀 헤드 헬멧입니다. 눈 앞의 화면은 착용자의 시야를 제한하지만 작업할 때 간단한 AI 보조를 제공합니다.</Apparel_SpWorkerHelmet.description>
+
+
+  <!-- Tribal Tech -->
+
+  <Apparel_RagDress.label>누더기 드레스 1</Apparel_RagDress.label>
+  <Apparel_RagDress.description>천으로 만든 매우 기본적인 노예 복장은 어디서나 만들 수 있습니다. 사회적 지위를 떨어뜨리고 작업 속도를 향상시킵니다.</Apparel_RagDress.description>
+
+  <Apparel_RagDressB.label>누더기 드레스 2</Apparel_RagDressB.label>
+  <Apparel_RagDressB.description>옷으로 만든 단순한 하인 복장입니다. 사회적 지위를 떨어뜨리지만 작업 속도를 향상시킵니다.</Apparel_RagDressB.description>
+
+
+  <!-- Industrial Tech -->
+
+  <Apparel_Coverall.label>공장 작업복</Apparel_Coverall.label>
+  <Apparel_Coverall.description>도시계 공장 노동자들이 일반적으로 사용하는 직물 덮개 유니폼입니다. 몸을 전부 덮기 때문에 덥고 불편하지만, 작업 위험으로부터 약간의 보호를 제공합니다. </Apparel_Coverall.description>
+
+
+  <!-- Medieval Tech -->
+
+  <Apparel_TunicPoor.label>빈민의 튜닉</Apparel_TunicPoor.label>
+  <Apparel_TunicPoor.description>가죽 벨트와 잘 만들어진 튜닉으로만 구성된 농민들이 일반적으로 사용하는 단일 조각 의류입니다. 추위로부터 약간의 보호를 제공한다.</Apparel_TunicPoor.description>
+
+  <Apparel_TunicFine.label>좋은 튜닉</Apparel_TunicFine.label>
+  <Apparel_TunicFine.description>주로 소작농이 입는 단 하나의 조각 의류는 정교하게 만들어진 튜닉과 가죽 벨트로 구성됩니다. 감기에 대한 적당한 보호를 제공합니다.</Apparel_TunicFine.description>
+
+
+  <!-- Spacer Tech -->
+
+  <Apparel_SpTight.label>우주 노예복</Apparel_SpTight.label>
+  <Apparel_SpTight.description>강화된 섬유와 디지털 옷깃으로 제작된 흰색 전신 수트로 구성된 유니폼입니다. 이 의상은 노예를 지킬 때 우주 파벌이 사용하는 디자인이므로 육지에서는 실용적이지 않습니다. 옷깃에는 노예의 GPS와 정보를 담고 있어서, 탈출하는 것을 더 어렵게 만듭니다.</Apparel_SpTight.description>
+
+
+  <!-- Victorian Tech -->
+
+  <Apparel_VicScullery.label>빅토리안 주방 하녀복</Apparel_VicScullery.label>
+  <Apparel_VicScullery.description>인류 최초의 산업 혁명 시대의 디자인 청소부들은 설거지와 다른 보잘것없는 집안일을 하는 여성 하인들 중 가장 낮은 순위를 차지한다.\n\n남성들은 홀 보이(Hall Boy)라고 불리며, 고위 간부들을 위해 방 주전자를 비우고 부츠를 닦는 것과 같은 집안에서 가장 불쾌한 일들을 했습니다.</Apparel_VicScullery.description>
+
+  <Apparel_VicHM.label>빅토리안 하녀복</Apparel_VicHM.label>
+  <Apparel_VicHM.description>인류 최초의 산업 혁명 시대의 디자인입니다. 가정부는 전형적인 국내 집안일을 수행하고 더 나은 보수를받는 여성 하인입니다.\n\n하인은 사치와 같은 것이기 때문에 하인을 부린다는 것은 높은 지위의 상징이나 마찬가지였습니다. 그들은 요리사, 하녀 또는 집사보다 덜 필수적인 역할을 수행했으며 유서깊은 집안에만 부릴 수 있었습니다.</Apparel_VicHM.description>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- PetiteServantDragon -->
+
+  <LF_PetiteServantDragon.label>작은 서번트 용</LF_PetiteServantDragon.label>
+  <LF_PetiteServantDragon.description>푸른 용들의 3마리의 전속 하인 중 하나입니다. 낡은 선대가 용 황제의 측근이었던 때부터 이들이 멸망할 때까지 줄곧 푸른 용의 후손을 모시고 있습니다. 용족 가운데 최약의 부류인데, 그 충성심은 지금도 흔들리지 않습니다. 한 외로움을 숨기는 푸른 용의 자식을 조금이라도 지탱하기 위해, 헌신적으로 일 했습니다. 만약, 야생에서 그들을 찾았다면 푸른 용의 아이를 찾고 있음에 틀림 없습니다. 모든 지역에 매우 낮은 확률로 출현합니다.</LF_PetiteServantDragon.description>
+  <LF_PetiteServantDragon.tools.0.label>이빨</LF_PetiteServantDragon.tools.0.label>
+  <LF_PetiteServantDragon.tools.1.label>머리</LF_PetiteServantDragon.tools.1.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <LF_PetiteServantDragon_Corpse.label>작은 서번트 용의 시체</LF_PetiteServantDragon_Corpse.label>
+  <LF_PetiteServantDragon_Corpse.description>작은 서번트 용의 시체</LF_PetiteServantDragon_Corpse.description>
+
+
+</LanguageData>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 低体温症系 -->
+
+  <LF_Coldgrasp.label>차가운 손아귀</LF_Coldgrasp.label>
+  <LF_Iciclebash.label>아이시컬 배쉬</LF_Iciclebash.label>
+  <LF_Glacialbite.label>아이시컬 배쉬</LF_Glacialbite.label>
+  <LF_Hailblast.label>헤일 블라스트</LF_Hailblast.label>
+  <LF_Cocytus.label>코카투스</LF_Cocytus.label>
+
+
+  <!-- 熱中症系 -->
+
+  <LF_Blazingsmash.label>블래이징 스매쉬</LF_Blazingsmash.label>
+  <LF_Burningcharge.label>버닝 차지</LF_Burningcharge.label>
+  <LF_Heatbite.label>힛 바이트</LF_Heatbite.label>
+  <LF_Heatlance.label>힛 랜스</LF_Heatlance.label>
+  <LF_Flareblast.label>플래어 블래스트</LF_Flareblast.label>
+  <LF_Inferno.label>인페르노</LF_Inferno.label>
+
+
+  <!-- 蓄積毒系 -->
+
+  <LF_Poisonstab.label>독침</LF_Poisonstab.label>
+  <LF_ThornStab.label>가시 침</LF_ThornStab.label>
+  <LF_Deadlypoison.label>죽음의 독</LF_Deadlypoison.label>
+
+
+  <!-- 特殊 -->
+
+  <LF_Sandblast.label>샌드 블래스트</LF_Sandblast.label>
+  <LF_Armorbreak.label>갑옷 파괴</LF_Armorbreak.label>
+  <LF_Legbreak.label>다리 파괴</LF_Legbreak.label>
+  <LF_Bloodleech.label>피 거머리</LF_Bloodleech.label>
+  <LF_Famine.label>기근</LF_Famine.label>
+  <LF_Pestilence.label>역병</LF_Pestilence.label>
+  <LF_DragonicSigil.label>용인</LF_DragonicSigil.label>
+
+
+</LanguageData>

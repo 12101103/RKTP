@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Leffy -->
+
+  <LF_Leffy.label>래피</LF_Leffy.label>
+  <LF_Leffy.labelPlural>래피</LF_Leffy.labelPlural>
+  <LF_Leffy.lifeStages.0.label>래피</LF_Leffy.lifeStages.0.label>
+  <LF_Leffy.lifeStages.0.labelPlural>래피</LF_Leffy.lifeStages.0.labelPlural>
+  <LF_Leffy.lifeStages.0.labelMale>수컷 래피</LF_Leffy.lifeStages.0.labelMale>
+  <LF_Leffy.lifeStages.0.labelMalePlural>수컷 래피</LF_Leffy.lifeStages.0.labelMalePlural>
+  <LF_Leffy.lifeStages.0.labelFemale>암컷 래피</LF_Leffy.lifeStages.0.labelFemale>
+  <LF_Leffy.lifeStages.0.labelFemalePlural>암컷 래피</LF_Leffy.lifeStages.0.labelFemalePlural>
+  <LF_Leffy.lifeStages.1.label>래피</LF_Leffy.lifeStages.1.label>
+  <LF_Leffy.lifeStages.1.labelPlural>래피</LF_Leffy.lifeStages.1.labelPlural>
+  <LF_Leffy.lifeStages.1.labelMale>수컷 래피</LF_Leffy.lifeStages.1.labelMale>
+  <LF_Leffy.lifeStages.1.labelMalePlural>수컷 래피</LF_Leffy.lifeStages.1.labelMalePlural>
+  <LF_Leffy.lifeStages.1.labelFemale>암컷 래피</LF_Leffy.lifeStages.1.labelFemale>
+  <LF_Leffy.lifeStages.1.labelFemalePlural>암컷 래피</LF_Leffy.lifeStages.1.labelFemalePlural>
+  <LF_Leffy.lifeStages.2.label>래피</LF_Leffy.lifeStages.2.label>
+  <LF_Leffy.lifeStages.2.labelPlural>래피</LF_Leffy.lifeStages.2.labelPlural>
+  <LF_Leffy.lifeStages.2.labelMale>수컷 래피</LF_Leffy.lifeStages.2.labelMale>
+  <LF_Leffy.lifeStages.2.labelMalePlural>수컷 래피</LF_Leffy.lifeStages.2.labelMalePlural>
+  <LF_Leffy.lifeStages.2.labelFemale>암컷 래피</LF_Leffy.lifeStages.2.labelFemale>
+  <LF_Leffy.lifeStages.2.labelFemalePlural>암컷 래피</LF_Leffy.lifeStages.2.labelFemalePlural>
+  <LF_Leffy.labelMale>수컷 래피</LF_Leffy.labelMale>
+  <LF_Leffy.labelMalePlural>수컷 래피</LF_Leffy.labelMalePlural>
+  <LF_Leffy.labelFemale>암컷 래피</LF_Leffy.labelFemale>
+  <LF_Leffy.labelFemalePlural>암컷 래피</LF_Leffy.labelFemalePlural>
+
+
+</LanguageData>

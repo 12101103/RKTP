@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 尻尾攻撃 -->
+
+  <LF_TailAttackTool.label>꼬리</LF_TailAttackTool.label>
+
+
+  <!-- 左脚 -->
+
+  <LF_LeftLegAttackTool.label>왼쪽 다리</LF_LeftLegAttackTool.label>
+
+
+  <!-- 右脚 -->
+
+  <LF_RightLegAttackTool.label>오른쪽 다리</LF_RightLegAttackTool.label>
+
+
+  <!-- 左翼。翼竜は肋骨の一部がこれに置き換わる。 -->
+
+  <LF_LeftWingAttackTool.label>왼쪽 날개</LF_LeftWingAttackTool.label>
+
+
+  <!-- 右翼 -->
+
+  <LF_RightWingAttackTool.label>오른쪽 날개</LF_RightWingAttackTool.label>
+
+
+</LanguageData>

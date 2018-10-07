@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!-- Apparel_Boots -->
+  <Apparel_boots.label>부츠</Apparel_boots.label>
+  <Apparel_boots.description>작업 중 발을 보호할 수 있는 단단한 부츠입니다.</Apparel_boots.description>
+
+  <Apparel_military_Boots.label>군용 부츠</Apparel_military_Boots.label>
+  <Apparel_military_Boots.description>전투원들을 위해 설계된 고품질 부츠입니다.</Apparel_military_Boots.description>
+
+  <Apparel_sandals.label>샌들</Apparel_sandals.label>
+  <Apparel_sandals.description>낮은 수준 샌들로, 따뜻한 온도에 좋습니다.</Apparel_sandals.description>
+
+  <Apparel_shoes.label>신발</Apparel_shoes.label>
+  <Apparel_shoes.description>좋은 신발로, 다른 것들보다 더 우아하지만 만들기 어렵습니다.</Apparel_shoes.description>
+
+ <!-- Apparel_Gloves -->
+  <Apparel_work_gloves.label>작업용 장갑</Apparel_work_gloves.label>
+  <Apparel_work_gloves.description>간단한 장갑 한 켤레로, 손가락을 보호하고 일을 더 쉽게 할 수 있습니다.</Apparel_work_gloves.description>
+
+  <Apparel_thick_gloves.label>광부 장갑</Apparel_thick_gloves.label>
+  <Apparel_thick_gloves.description>두꺼운 장갑 한 켤레로, 광부와 건축업자가 사용하기 좋습니다. 다른 것들에 그렇게 좋지는 않습니다. 두껍기 때문에 몸이 조금 더 보호됩니다.</Apparel_thick_gloves.description>
+
+  <Apparel_medic_gloves.label>의료용 장갑</Apparel_medic_gloves.label>
+  <Apparel_medic_gloves.description>얇고 깨끗한 장갑 한 켤레로, 수술하기 좋습니다.</Apparel_medic_gloves.description>
+<!-- Apparel_Rings -->
+  <Apparel_ring.label>반지</Apparel_ring.label>
+  <Apparel_ring.description>귀한 재료로 만든 반지입니다.</Apparel_ring.description>
+<!-- Apparel_Socks -->
+  <Apparel_Socks.label>양말</Apparel_Socks.label>
+  <Apparel_Socks.description>단순한 양말 한 켤레.</Apparel_Socks.description>
+
+
+</LanguageData>

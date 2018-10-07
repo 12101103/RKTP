@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Leffy -->
+
+  <LF_Leffy.label>래피</LF_Leffy.label>
+  <LF_Leffy.description>환상적이고 가볍고 푹신한 털을 갖는 동물입니다. 언뜻 보기에 토실 토실한 털에 귀과 꼬리가 달린 것처럼 보이지만 일단 손발이 있습니다. 질병에 효과가 있는 고급스러운 털이 얻을 것부터 남획되어 지금은 멸종 위기에 처하고 있습니다. 모든 지역에 드물게 출현합니다.</LF_Leffy.description>
+  <LF_Leffy_Leather.label>꼬마 모후의 가죽</LF_Leffy_Leather.label>
+  <LF_Leffy_Leather.description>꼬마 모후의 가죽입니다.</LF_Leffy_Leather.description>
+  <LF_Leffy_Leather.stuffProps.stuffAdjective>꼬마 모후의 가죽</LF_Leffy_Leather.stuffProps.stuffAdjective>
+  <LF_Leffy_Meat.label>수인 고기</LF_Leffy_Meat.label>
+  <LF_Leffy_Meat.description>수인의 고기입니다</LF_Leffy_Meat.description>
+  <LF_Leffy_Corpse.label>래피의 시체</LF_Leffy_Corpse.label>
+  <LF_Leffy_Corpse.description>래피의 시체</LF_Leffy_Corpse.description>
+
+
+</LanguageData>

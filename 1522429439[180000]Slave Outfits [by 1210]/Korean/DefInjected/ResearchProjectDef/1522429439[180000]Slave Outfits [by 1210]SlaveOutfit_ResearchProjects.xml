@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NeolithicUniform.label>신석기 유니폼</NeolithicUniform.label>
+  <NeolithicUniform.description>이 행성의 모든 사람들은 누더기를 이 옷으로 만드는 법을 알고 있습니다.</NeolithicUniform.description>
+
+  <IndustrialUniform.label>산업 유니폼</IndustrialUniform.label>
+  <IndustrialUniform.description>당신의 식민지 개척자 중 한 명이 도시계 공장에서 흔히 사용되는 유니폼을 기억했고 손으로 그것을 만들었습니다. 공장 유니폼을 생산합니다.</IndustrialUniform.description>
+
+  <MedievalUniform.label>중세 유니폼</MedievalUniform.label>
+  <MedievalUniform.description>우리 재단사는 누더기 옷 개선 작업을 계속 하고 있으며, 지구의 중세 시대 옷과 비슷한 옷을 만드는 데 성공했습니다. 중세 농민의 튜닉을 생산할 수 있습니다.</MedievalUniform.description>
+
+  <SpacerUniform.label>우주 유니폼</SpacerUniform.label>
+  <SpacerUniform.description>우리 연구자는 일부 우주 비행사 회사가 그들만의 유니폼을 가지고 있다는 것을 알아챘고, 그래서 그 유니폼을 복제하기 위해 주문했습니다. 우주 노예복을 만들 수 있습니다.</SpacerUniform.description>
+
+  <VictorianUniform.label>빅토리안 유니폼</VictorianUniform.label>
+  <VictorianUniform.description>인류 최초의 산업 혁명 시대로 거슬러 올라가 흥미로운 디자인을 이끌어 낸 광범위한 빅토리아 시대의 유니폼을 만들 수 있습니다.</VictorianUniform.description>
+
+
+</LanguageData>

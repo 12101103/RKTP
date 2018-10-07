@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+  <RimHUD.Integration.GetMod>모드에 연결</RimHUD.Integration.GetMod>
+
+  <RimHUD.Integration.PawnRules>정착민 규칙</RimHUD.Integration.PawnRules>
+
+  <RimHUD.InspectPane.PawnRules.RuleNameFormat>규칙: {0}</RimHUD.InspectPane.PawnRules.RuleNameFormat>
+  <RimHUD.Theme.PawnRules.InspectPaneAddRules>규칙 보기</RimHUD.Theme.PawnRules.InspectPaneAddRules>
+
+  <RimHUD.Theme.PawnRules.HideGizmo>장치 숨기기</RimHUD.Theme.PawnRules.HideGizmo>
+  <RimHUD.Theme.PawnRules.HideGizmoDesc>RimHUD가 점검 창에 규칙 버튼을 추가할 때 초기 버튼 옆에 나타나는 규칙 장치를 비활성화합니다..</RimHUD.Theme.PawnRules.HideGizmoDesc>
+
+  <RimHUD.Integration.Bubbles>상호작용 버블</RimHUD.Integration.Bubbles>
+  <RimHUD.Theme.Bubbles.Activated>활성화 됨</RimHUD.Theme.Bubbles.Activated>
+  <RimHUD.Theme.Bubbles.DoNonPlayer>플레이어가 아닌 림 표시</RimHUD.Theme.Bubbles.DoNonPlayer>
+  <RimHUD.Theme.Bubbles.DoAnimals>동물 상호작용 표시</RimHUD.Theme.Bubbles.DoAnimals>
+
+  <RimHUD.Theme.Bubbles.MaxZoom>최대 줌 레벨</RimHUD.Theme.Bubbles.MaxZoom>
+  <RimHUD.Theme.Bubbles.MaxWidth>최대 폭</RimHUD.Theme.Bubbles.MaxWidth>
+  <RimHUD.Theme.Bubbles.Spacing>간격</RimHUD.Theme.Bubbles.Spacing>
+  <RimHUD.Theme.Bubbles.StartOffset>레이블 간격 띄우기</RimHUD.Theme.Bubbles.StartOffset>
+  <RimHUD.Theme.Bubbles.OffsetDirection>간격띄우기 방향</RimHUD.Theme.Bubbles.OffsetDirection>
+  <RimHUD.Theme.Bubbles.OffsetDirections>아래|왼쪽|위|오른쪽</RimHUD.Theme.Bubbles.OffsetDirections>
+  <RimHUD.Theme.Bubbles.StartOpacity>불투명도 시작</RimHUD.Theme.Bubbles.StartOpacity>
+  <RimHUD.Theme.Bubbles.MouseOverOpacity>마우스-오버 불투명도</RimHUD.Theme.Bubbles.MouseOverOpacity>
+
+  <RimHUD.Theme.Bubbles.MinTime>최소 페이드 시간</RimHUD.Theme.Bubbles.MinTime>
+  <RimHUD.Theme.Bubbles.FadeStart>페이드 시작 눈금</RimHUD.Theme.Bubbles.FadeStart>
+  <RimHUD.Theme.Bubbles.FadeLength>페이드 눈금</RimHUD.Theme.Bubbles.FadeLength>
+  <RimHUD.Theme.Bubbles.MaxPerPawn>정착민 당 최댓값</RimHUD.Theme.Bubbles.MaxPerPawn>
+
+  <RimHUD.Theme.Bubbles.FontSize>폰트 크기</RimHUD.Theme.Bubbles.FontSize>
+  <RimHUD.Theme.Bubbles.PaddingX>텍스트 간격 X</RimHUD.Theme.Bubbles.PaddingX>
+  <RimHUD.Theme.Bubbles.PaddingY>텍스트 간격 Y</RimHUD.Theme.Bubbles.PaddingY>
+
+  <RimHUD.Integration.General>일반 세팅</RimHUD.Integration.General>
+  <RimHUD.Theme.GeneralIntegration.ShowCustomNeeds>다른 모드의 요구사항을 표시합니다</RimHUD.Theme.GeneralIntegration.ShowCustomNeeds>
+
+</LanguageData>

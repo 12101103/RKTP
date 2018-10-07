@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wolvern -->
+
+  <LF_Flammelia.label>플라멜리아</LF_Flammelia.label>
+  <LF_Flammelia.description>수인족으로 옛 숲의 주민입니다. 타오르는 불꽃처럼 밝은 붉은 깃이 특징으로, 발톱의 남은 그 날개는 하늘을 날려면 적합하지 않지만 대신에 강인한 다리를 가집니다. 거의 모든 개체가 낙천가이고 향락적이고 춤추거나 노래하거나 즐거운 일을 하는 것을 좋아합니다. 그녀는 궂은 일이 있어도 3걸음 걸으면 잃을 만큼 전환이 빠르고 사소한 일은 신경 쓰지 않지만, 그녀를 화나게 만들면 상대에게는 그 체격 그대로의 위협이 될 것입니다. 평소에는 모리 히토의 한 사람으로서 옛 숲 주변의 경비나 막노동에 종사하는 것 같아요. 그녀는 야생으로 출현하지 않습니다. 파괴된 오랜 숲에서 끝까지 과감히 싸우다 포로가 된 생존을, 상인이 드물게 데리고 다니는 것 같네요.</LF_Flammelia.description>
+  <LF_Flammelia.tools.0.label>버닝 차지 (왼손)</LF_Flammelia.tools.0.label>
+  <LF_Flammelia.tools.1.label>버닝 차지 (오른손)</LF_Flammelia.tools.1.label>
+  <LF_Flammelia.tools.2.label>버닝 차지 (왼쪽 다리)</LF_Flammelia.tools.2.label>
+  <LF_Flammelia.tools.3.label>버닝 차지 (오른쪽 다리)</LF_Flammelia.tools.3.label>
+  <LF_Flammelia.tools.4.label>머리</LF_Flammelia.tools.4.label>
+  <LF_Flammelia.tools.5.label>힛 바이트 (이빨)</LF_Flammelia.tools.5.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <LF_Flammelia_Corpse.label>플라멜리아의 시체</LF_Flammelia_Corpse.label>
+  <LF_Flammelia_Corpse.description>플라멜리아의 시체</LF_Flammelia_Corpse.description>
+
+
+</LanguageData>

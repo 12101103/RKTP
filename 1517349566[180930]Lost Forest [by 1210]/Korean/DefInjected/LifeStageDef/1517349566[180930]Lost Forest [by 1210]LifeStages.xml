@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Foxia -->
+
+  <FoxiaBaby.label>새끼</FoxiaBaby.label>
+  <FoxiaJuvenile.label>유년기</FoxiaJuvenile.label>
+  <FoxiaAdult.label>성체</FoxiaAdult.label>
+
+
+  <!-- Lefca -->
+
+  <LefcaBaby.label>새끼</LefcaBaby.label>
+  <LefcaJuvenile.label>유년기</LefcaJuvenile.label>
+  <LefcaAdult.label>성체</LefcaAdult.label>
+
+
+  <!-- Wolvern -->
+
+  <WolvernBaby.label>새끼</WolvernBaby.label>
+  <WolvernJuvenile.label>유년기</WolvernJuvenile.label>
+  <WolvernAdult.label>성체</WolvernAdult.label>
+
+
+  <!-- Dragonia -->
+
+  <DragoniaBaby.label>새끼</DragoniaBaby.label>
+  <DragoniaJuvenile.label>유년기</DragoniaJuvenile.label>
+  <DragoniaAdult.label>성체</DragoniaAdult.label>
+
+
+  <!-- Servants -->
+
+  <PetiteServantDragonBaby.label>새끼</PetiteServantDragonBaby.label>
+  <PetiteServantDragonJuvenile.label>유년기</PetiteServantDragonJuvenile.label>
+  <PetiteServantDragonAdult.label>성체</PetiteServantDragonAdult.label>
+
+
+  <!-- Leffy -->
+
+  <LeffyBaby.label>새끼</LeffyBaby.label>
+  <LeffyJuvenile.label>유년기</LeffyJuvenile.label>
+  <LeffyAdult.label>성체</LeffyAdult.label>
+
+
+  <!-- Glacia -->
+
+  <GlaciaBaby.label>새끼</GlaciaBaby.label>
+  <GlaciaJuvenile.label>유년기</GlaciaJuvenile.label>
+  <GlaciaAdult.label>성체</GlaciaAdult.label>
+
+
+  <!-- Flammelia -->
+
+  <FlammeliaBaby.label>새끼</FlammeliaBaby.label>
+  <FlammeliaJuvenile.label>유년기</FlammeliaJuvenile.label>
+  <FlammeliaAdult.label>성체</FlammeliaAdult.label>
+
+
+</LanguageData>

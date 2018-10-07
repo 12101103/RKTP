@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Lighting_MURWallLightVII.label>벽면 조명</Lighting_MURWallLightVII.label>
+  <Lighting_MURWallLightVII.description>벽에 장착하도록 설계된 조명 기구입니다.</Lighting_MURWallLightVII.description>
+  <Lighting_MURWallLightVII_Blueprint.label>벽면 조명 (청사진)</Lighting_MURWallLightVII_Blueprint.label>
+  <Lighting_MURWallLightVII_Blueprint_Install.label>벽면 조명 (청사진)</Lighting_MURWallLightVII_Blueprint_Install.label>
+  <Lighting_MURWallLightVII_Frame.label>벽면 조명 (건설 중)</Lighting_MURWallLightVII_Frame.label>
+  <Lighting_MURWallLightVII_Frame.description>벽에 장착하도록 설계된 조명 기구입니다.</Lighting_MURWallLightVII_Frame.description>
+  <Lighting_MURWallLightRedVII.label>벽면 조명 (빨강)</Lighting_MURWallLightRedVII.label>
+  <Lighting_MURWallLightRedVII.description>벽에 장착하도록 설계된 조명 기구입니다. 빨간색 입니다.</Lighting_MURWallLightRedVII.description>
+  <Lighting_MURWallLightRedVII_Blueprint.label>벽면 조명 (빨강) (청사진)</Lighting_MURWallLightRedVII_Blueprint.label>
+  <Lighting_MURWallLightRedVII_Blueprint_Install.label>벽면 조명 (빨강) (청사진)</Lighting_MURWallLightRedVII_Blueprint_Install.label>
+  <Lighting_MURWallLightRedVII_Frame.label>벽면 조명 (빨강) (건설 중)</Lighting_MURWallLightRedVII_Frame.label>
+  <Lighting_MURWallLightRedVII_Frame.description>벽에 장착하도록 설계된 조명 기구입니다. 빨간색 입니다.</Lighting_MURWallLightRedVII_Frame.description>
+  <Lighting_MURWallLightGreenVII.label>벽면 조명 (녹색)</Lighting_MURWallLightGreenVII.label>
+  <Lighting_MURWallLightGreenVII.description>벽에 장착하도록 설계된 조명 기구입니다. 초록색 입니다.</Lighting_MURWallLightGreenVII.description>
+  <Lighting_MURWallLightGreenVII_Blueprint.label>벽면 조명 (녹색) (청사진)</Lighting_MURWallLightGreenVII_Blueprint.label>
+  <Lighting_MURWallLightGreenVII_Blueprint_Install.label>벽면 조명 (녹색) (청사진)</Lighting_MURWallLightGreenVII_Blueprint_Install.label>
+  <Lighting_MURWallLightGreenVII_Frame.label>벽면 조명 (녹색) (건설 중)</Lighting_MURWallLightGreenVII_Frame.label>
+  <Lighting_MURWallLightGreenVII_Frame.description>벽에 장착하도록 설계된 조명 기구입니다. 초록색 입니다.</Lighting_MURWallLightGreenVII_Frame.description>
+  <Lighting_MURWallLightBlueVII.label>벽면 조명 (파랑)</Lighting_MURWallLightBlueVII.label>
+  <Lighting_MURWallLightBlueVII.description>벽에 장착하도록 설계된 조명 기구입니다. 파란색 입니다.</Lighting_MURWallLightBlueVII.description>
+  <Lighting_MURWallLightBlueVII_Blueprint.label>벽면 조명 (파랑) (청사진)</Lighting_MURWallLightBlueVII_Blueprint.label>
+  <Lighting_MURWallLightBlueVII_Blueprint_Install.label>벽면 조명 (파랑) (청사진)</Lighting_MURWallLightBlueVII_Blueprint_Install.label>
+  <Lighting_MURWallLightBlueVII_Frame.label>벽면 조명 (파랑) (건설 중)</Lighting_MURWallLightBlueVII_Frame.label>
+  <Lighting_MURWallLightBlueVII_Frame.description>벽에 장착하도록 설계된 조명 기구입니다. 파란색 입니다.</Lighting_MURWallLightBlueVII_Frame.description>
+  <Lighting_MURWallLightVII_GlowerBase.label>벽면 조명</Lighting_MURWallLightVII_GlowerBase.label>
+  <Lighting_MURWallLightVII_GlowerBase.description>벽에 장착하도록 설계된 조명 기구입니다.</Lighting_MURWallLightVII_GlowerBase.description>
+  <Lighting_MURWallLightVII_Glower.label>벽면 조명</Lighting_MURWallLightVII_Glower.label>
+  <Lighting_MURWallLightVII_Glower.description>벽에 장착하도록 설계된 조명 기구입니다.</Lighting_MURWallLightVII_Glower.description>
+  <Lighting_MURWallLightVII_GlowerRed.label>벽면 조명</Lighting_MURWallLightVII_GlowerRed.label>
+  <Lighting_MURWallLightVII_GlowerRed.description>벽에 장착하도록 설계된 조명 기구입니다.</Lighting_MURWallLightVII_GlowerRed.description>
+  <Lighting_MURWallLightVII_GlowerGreen.label>벽면 조명</Lighting_MURWallLightVII_GlowerGreen.label>
+  <Lighting_MURWallLightVII_GlowerGreen.description>벽에 장착하도록 설계된 조명 기구입니다.</Lighting_MURWallLightVII_GlowerGreen.description>
+  <Lighting_MURWallLightVII_GlowerBlue.label>벽면 조명</Lighting_MURWallLightVII_GlowerBlue.label>
+  <Lighting_MURWallLightVII_GlowerBlue.description>벽에 장착하도록 설계된 조명 기구입니다.</Lighting_MURWallLightVII_GlowerBlue.description>
+</LanguageData>

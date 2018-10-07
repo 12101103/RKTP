@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 投与：ちび狐の涙 -->
+
+  <AdministerFoxiaTears.label>꼬마 여우의 눈물을 투여</AdministerFoxiaTears.label>
+  <AdministerFoxiaTears.description>꼬마 여우의 눈물을 옛 숲의 기법대로 처방한다. 중증 질환이나 부상, 부위 결손을 회복시킨다..</AdministerFoxiaTears.description>
+  <AdministerFoxiaTears.jobString>꼬마 여우의 눈물을 투여 중.</AdministerFoxiaTears.jobString>
+
+
+  <!-- 投与：おみくじ煎餅 -->
+
+  <AdministerOmikujiSenbei.label>점괘 과자를 투여</AdministerOmikujiSenbei.label>
+  <AdministerOmikujiSenbei.description>꼬마 무당 여우의 가호가 걸린 음식으로 면역을 강화시킨다..</AdministerOmikujiSenbei.description>
+  <AdministerOmikujiSenbei.jobString>점괘 과자를 투여 중.</AdministerOmikujiSenbei.jobString>
+
+
+  <!-- 投与：レフカの花冠 -->
+
+  <AdministerMysteriousWreath.label>레프카의 화관을 사용</AdministerMysteriousWreath.label>
+  <AdministerMysteriousWreath.description>화관을 풀어 얻어진 신비한 허브를 투여한다. 조금 면역과 신체 기능이 강화된다.</AdministerMysteriousWreath.description>
+  <AdministerMysteriousWreath.jobString>레프카의 화관을 투여 중</AdministerMysteriousWreath.jobString>
+
+
+  <!-- 投与：義理チョコ...？ -->
+
+  <AdministerNutChocolate.label>초콜렛을 사용</AdministerNutChocolate.label>
+  <AdministerNutChocolate.description>초코렛을 수놓은 미지의 과실을 꺼내투여한다. 작은 면역과 강한 진통 작용이 있다.</AdministerNutChocolate.description>
+  <AdministerNutChocolate.jobString>초콜렛...?을 투여 중.</AdministerNutChocolate.jobString>
+
+
+</LanguageData>

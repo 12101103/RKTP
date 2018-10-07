@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TableUniformGM.label>노예복 재봉 작업대</TableUniformGM.label>
+  <TableUniformGM.description>노예복을 재단하기 위한 특별 재단용 작업대.</TableUniformGM.description>
+  <TableUniformGM_Blueprint.label>노예복 재봉 작업대 (청사진)</TableUniformGM_Blueprint.label>
+  <TableUniformGM_Blueprint_Install.label>노예복 재봉 작업대 (청사진)</TableUniformGM_Blueprint_Install.label>
+  <TableUniformGM_Frame.label>노예복 재봉 작업대 (건설 중)</TableUniformGM_Frame.label>
+  <TableUniformGM_Frame.description>노예복을 재단하기 위한 특별 재단용 작업대.</TableUniformGM_Frame.description>
+
+
+</LanguageData>

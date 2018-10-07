@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WheatFarming.label>밀 농사</WheatFarming.label>
+  <WheatFarming.description>밀 농사와 기초적인 가공을 가능하게 합니다.</WheatFarming.description>
+  <AdvancedGrainMilling.label>고급 곡물 가공</AdvancedGrainMilling.label>
+  <AdvancedGrainMilling.description>고급 제분기를 제작하여 효율성을 높일 수 있습니다.</AdvancedGrainMilling.description>
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Lefca -->
+
+  <LF_Lefca.label>레프카</LF_Lefca.label>
+  <LF_Lefca.description>환상적이고 이국적인 소녀 같은 풍모를 가진 동물입니다. 기분 좋은 것 같은 털에 뒤덮인 다람쥐 같은 큰 꼬리에 새의 날개 돋친 듯한 큰 귀가 특징인데, 다소 잊어 버리는 미덥지 못한 듯 보이지만 정예 경호인 중 하나로 그 실력은 확실합니다. 평소는 마냥 숲의 무녀의 신변 경호를 하고 있습니다. 그러나 갑자기 사라져서는 난데없이 바뀐 식물, 열매, 끝내는 상식으로는 생각할 수 없는 잡동사니를 수집하는 곤란한 버릇이 있는 것 같습니다. 그 행동 범위는 무서운 넓으며 드물게 달라진 것을 찾다가 길을 잃어 버린 것이 야생으로 출현합니다. 모든 지역에 극히 드물게 출현합니다.(어느 쪽인가 하면 극지보다 식물의 많은 지역을 선호하는 경향이 적지만 있습니다.)</LF_Lefca.description>
+  <LF_Lefca.tools.0.label>독침 (왼손)</LF_Lefca.tools.0.label>
+  <LF_Lefca.tools.1.label>독침 (오른손)</LF_Lefca.tools.1.label>
+  <LF_Lefca.tools.2.label>샌드 블래스트 (꼬리)</LF_Lefca.tools.2.label>
+  <LF_Lefca.tools.3.label>샌드 블래스트 (머리)</LF_Lefca.tools.3.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <LF_Lefca_Corpse.label>레프카의 시체</LF_Lefca_Corpse.label>
+  <LF_Lefca_Corpse.description>레프카의 시체</LF_Lefca_Corpse.description>
+
+
+</LanguageData>

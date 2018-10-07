@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SomeFood>식량 현황</SomeFood>
+  <SomeFoodDesc>식량 재고가 당장 걱정할 수준은 아닙니다.\n\n    한 끼 식사 가능 횟수: {0}\n    음식을 먹어야 하는 정착민 및 수감자 수: {1}\n    식량 고갈까지 남은 날짜: {2}</SomeFoodDesc>
+  <FoodAlert_DaysOfFood>일 분의 음식</FoodAlert_DaysOfFood>
+  <FoodAlert_Decent>\n\n음식이 풍족한 양의 음식이 있습니다.</FoodAlert_Decent>
+  <FoodAlert_Bunch>\n\n아직 많은 양의 음식이 남아 있습니다.</FoodAlert_Bunch>
+  <FoodAlert_Solid>\n\n음식에 여유가 없습니다.</FoodAlert_Solid>
+  <FoodAlert_Ridiculous>\n\n말이 안되게 음식이 조금 남았습니다.</FoodAlert_Ridiculous>
+
+</LanguageData>

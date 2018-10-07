@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BasicAutopsy.label>기초적인 부검</BasicAutopsy.label>
+  <BasicAutopsy.description>원시적인 인신공양 의식에서나 볼 수 있는 인간 도축입니다. 꽤 야만적입니다. 이 연구로 부검 테이블을 사용할 수 있습니다.</BasicAutopsy.description>
+  <AdvancedAutopsy.label>향상된 부검</AdvancedAutopsy.label>
+  <AdvancedAutopsy.description>진보된 의료기술을 통해 좀 더 인간적이고 정확하게 장기를 적출할 수 있습니다.</AdvancedAutopsy.description>
+  <GlitterworldAutopsy.label>번화계 부검</GlitterworldAutopsy.label>
+  <GlitterworldAutopsy.description>적절한 도구, 훈련, 기술을 가지고, 번화계 도시에서와 같은 성공 가능성을 가지고 인간의 장기를 적출해 낼 수 있습니다.</GlitterworldAutopsy.description>
+  <AnimalAutopsy.label>동물 부검</AnimalAutopsy.label>
+  <AnimalAutopsy.description>죽은 동물의 생체공학 부위를 의학적으로 적출할 수 있습니다.</AnimalAutopsy.description>
+</LanguageData>

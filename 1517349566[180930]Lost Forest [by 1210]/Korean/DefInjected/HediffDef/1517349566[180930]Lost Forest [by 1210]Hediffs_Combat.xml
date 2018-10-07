@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 植物毒 -->
+
+  <Hed_PhitonToxic.label>식물 독</Hed_PhitonToxic.label>
+  <Hed_PhitonToxic.stages.0.label>초기</Hed_PhitonToxic.stages.0.label>
+  <Hed_PhitonToxic.stages.1.label>중기</Hed_PhitonToxic.stages.1.label>
+  <Hed_PhitonToxic.stages.2.label>심각함</Hed_PhitonToxic.stages.2.label>
+
+
+  <!-- 盲目 -->
+
+  <Hed_Blind.label>눈이 멈</Hed_Blind.label>
+  <Hed_Blind.stages.0.label>초기</Hed_Blind.stages.0.label>
+  <Hed_Blind.stages.1.label>심각함</Hed_Blind.stages.1.label>
+
+
+  <!-- アーマーブレイク -->
+
+  <Hed_Armorbreak.label>갑옷 파괴</Hed_Armorbreak.label>
+  <Hed_Armorbreak.stages.0.label>조금</Hed_Armorbreak.stages.0.label>
+  <Hed_Armorbreak.stages.1.label>중간</Hed_Armorbreak.stages.1.label>
+  <Hed_Armorbreak.stages.2.label>심함</Hed_Armorbreak.stages.2.label>
+
+
+  <!-- レッグブレイク -->
+
+  <Hed_Legbreak.label>다리 파괴</Hed_Legbreak.label>
+  <Hed_Legbreak.stages.0.label>조금</Hed_Legbreak.stages.0.label>
+  <Hed_Legbreak.stages.1.label>중간</Hed_Legbreak.stages.1.label>
+  <Hed_Legbreak.stages.2.label>심함</Hed_Legbreak.stages.2.label>
+
+
+  <!-- 氷結地獄 -->
+
+  <Hed_Cocytus.label>코카투스</Hed_Cocytus.label>
+  <Hed_Cocytus.stages.0.label>몸이 떨림</Hed_Cocytus.stages.0.label>
+  <Hed_Cocytus.stages.1.label>벌벌 떨음</Hed_Cocytus.stages.1.label>
+  <Hed_Cocytus.stages.2.label>얼어붙음</Hed_Cocytus.stages.2.label>
+  <Hed_Cocytus.stages.3.label>동결 상태</Hed_Cocytus.stages.3.label>
+
+
+  <!-- 龍印 -->
+
+  <Hed_DragonicSigil.label>용인</Hed_DragonicSigil.label>
+  <Hed_DragonicSigil.stages.0.label>징조</Hed_DragonicSigil.stages.0.label>
+  <Hed_DragonicSigil.stages.1.label>1번째 봉인</Hed_DragonicSigil.stages.1.label>
+  <Hed_DragonicSigil.stages.2.label>2번째 봉인</Hed_DragonicSigil.stages.2.label>
+
+
+</LanguageData>

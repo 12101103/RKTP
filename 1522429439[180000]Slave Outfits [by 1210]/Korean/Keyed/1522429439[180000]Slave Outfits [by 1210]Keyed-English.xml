@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SlaveOutfits>Slave Outfits</SlaveOutfits>
+
+  <!-- settings -->
+  <SlaveOutfits.MedievalEnabled>중세 연구 활성화</SlaveOutfits.MedievalEnabled>
+  <SlaveOutfits.MedievalEnabledTip>중세 시대에는 옷에 영향을 미치지 않고 연구만 합니다.</SlaveOutfits.MedievalEnabledTip>
+  <SlaveOutfits.VictorianEnabled>빅토리안 연구 활성화</SlaveOutfits.VictorianEnabled>
+  <SlaveOutfits.VictorianEnabledTip>빅토리안 시대에는 옷에 영향을 미치지 않고 연구만 합니다.</SlaveOutfits.VictorianEnabledTip>
+  <SlaveOutfits.IndustrialEnabled>산업 연구 활성화</SlaveOutfits.IndustrialEnabled>
+  <SlaveOutfits.IndustrialEnabledTip>산업 시대에는 옷에 영향을 미치지 않고 연구만 합니다.</SlaveOutfits.IndustrialEnabledTip>
+  <SlaveOutfits.SpacerEnabled>우주 연구 활성화</SlaveOutfits.SpacerEnabled>
+  <SlaveOutfits.SpacerEnabledTip>우주 시대에는 옷에 영향을 미치지 않고 연구만 합니다.</SlaveOutfits.SpacerEnabledTip>
+
+
+</LanguageData>

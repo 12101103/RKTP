@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Lefca -->
+
+  <LF_Lefca.label>레프카</LF_Lefca.label>
+  <LF_Lefca.labelPlural>레프카</LF_Lefca.labelPlural>
+  <LF_Lefca.lifeStages.0.label>레프카</LF_Lefca.lifeStages.0.label>
+  <LF_Lefca.lifeStages.0.labelPlural>레프카</LF_Lefca.lifeStages.0.labelPlural>
+  <LF_Lefca.lifeStages.1.label>레프카</LF_Lefca.lifeStages.1.label>
+  <LF_Lefca.lifeStages.1.labelPlural>레프카</LF_Lefca.lifeStages.1.labelPlural>
+  <LF_Lefca.lifeStages.2.label>레프카</LF_Lefca.lifeStages.2.label>
+  <LF_Lefca.lifeStages.2.labelPlural>레프카</LF_Lefca.lifeStages.2.labelPlural>
+
+
+</LanguageData>

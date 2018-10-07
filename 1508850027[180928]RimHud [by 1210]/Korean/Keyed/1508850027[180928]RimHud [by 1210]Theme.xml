@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+  <RimHUD.Theme.HudPosition>HUD 위치</RimHUD.Theme.HudPosition>
+  <RimHUD.Theme.HudDocked>검사 창에 도킹</RimHUD.Theme.HudDocked>
+  <RimHUD.Theme.HudDockedDesc>점검 창을 수정해야 한다면, 아래 값을 수정하세요.</RimHUD.Theme.HudDockedDesc>
+  <RimHUD.Theme.HudAnchor>고정</RimHUD.Theme.HudAnchor>
+  <RimHUD.Theme.HudAnchors>왼쪽 상단|중앙 상단|오른쪽 상단|왼쪽 중앙|중앙|오른쪽 중앙|왼쪽 하단|중앙 하단|오른쪽 하단</RimHUD.Theme.HudAnchors>
+  <RimHUD.Theme.HudOffsetX>X</RimHUD.Theme.HudOffsetX>
+  <RimHUD.Theme.HudOffsetY>Y</RimHUD.Theme.HudOffsetY>
+
+  <RimHUD.Theme.HudDimensions>HUD 크기</RimHUD.Theme.HudDimensions>
+  <RimHUD.Theme.HudWidth>너비</RimHUD.Theme.HudWidth>
+  <RimHUD.Theme.HudHeight>높이</RimHUD.Theme.HudHeight>
+
+  <RimHUD.Theme.TextOptions>텍스트 옵션</RimHUD.Theme.TextOptions>
+
+  <RimHUD.Theme.TextStyleRegular>일반 텍스트</RimHUD.Theme.TextStyleRegular>
+  <RimHUD.Theme.TextStyleLarge>헤더 텍스트</RimHUD.Theme.TextStyleLarge>
+  <RimHUD.Theme.TextStyleSmall>설명 텍스트</RimHUD.Theme.TextStyleSmall>
+  <RimHUD.Theme.LabelWidth>라벨 너비</RimHUD.Theme.LabelWidth>
+  <RimHUD.Theme.ValueWidth>값 너비</RimHUD.Theme.ValueWidth>
+
+  <RimHUD.Theme.InspectPane>점검 창</RimHUD.Theme.InspectPane>
+  <RimHUD.Theme.InspectPaneModify>수정</RimHUD.Theme.InspectPaneModify>
+  <RimHUD.Theme.InspectPaneModifyDesc>도킹된 HUD 모드에 필요합니다.</RimHUD.Theme.InspectPaneModifyDesc>
+  <RimHUD.Theme.InspectPaneAddLog>캐릭터 로그 보기</RimHUD.Theme.InspectPaneAddLog>
+  <RimHUD.Theme.InspectPaneAddLogDesc>점검 창에 선택한 캐릭터에 대한 로그를 채웁니다. 도킹되지 않은 모드에서만 사용할 수 있습니다.</RimHUD.Theme.InspectPaneAddLogDesc>
+  <RimHUD.Theme.InspectPaneHeight>창 높이</RimHUD.Theme.InspectPaneHeight>
+  <RimHUD.Theme.InspectPaneMinTabs>탭 최소화</RimHUD.Theme.InspectPaneMinTabs>
+  <RimHUD.Theme.InspectPaneTabWidth>탭 너비</RimHUD.Theme.InspectPaneTabWidth>
+
+  <RimHUD.Theme.OtherOptions>기타 옵션</RimHUD.Theme.OtherOptions>
+
+  <RimHUD.Theme.LetterPadding>알림 간격</RimHUD.Theme.LetterPadding>
+  <RimHUD.Theme.LetterPaddingDesc>화면 오른쪽에 나타나는 문자 알림 사이의 거리를 변경합니다. 바닐라 : 12</RimHUD.Theme.LetterPaddingDesc>
+  <RimHUD.Theme.LetterCompress>알림 압축</RimHUD.Theme.LetterCompress>
+  <RimHUD.Theme.LetterCompressDesc>HUD와 겹치면 화면 오른쪽에 있는 모든 문자와 경고를 압축합니다.</RimHUD.Theme.LetterCompressDesc>
+
+  <RimHUD.TextStyle.Size>크기</RimHUD.TextStyle.Size>
+  <RimHUD.TextStyle.Height>높이</RimHUD.TextStyle.Height>
+
+</LanguageData>

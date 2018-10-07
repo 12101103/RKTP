@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+  <RimHUD.ToggleHud>HUD 보기</RimHUD.ToggleHud>
+
+  <RimHUD.Button.OK>확인</RimHUD.Button.OK>
+  <RimHUD.Button.Yes>예</RimHUD.Button.Yes>
+  <RimHUD.Button.No>아니오</RimHUD.Button.No>
+  <RimHUD.Button.Cancel>취소</RimHUD.Button.Cancel>
+  <RimHUD.Button.Close>닫기</RimHUD.Button.Close>
+
+  <RimHUD.Dialog_Config.Title>RimHUD</RimHUD.Dialog_Config.Title>
+  <RimHUD.Dialog_Config.SetToDefault>디폴트값 사용</RimHUD.Dialog_Config.SetToDefault>
+
+  <RimHUD.Dialog_Config.Tab.Design>디자인</RimHUD.Dialog_Config.Tab.Design>
+  <RimHUD.Dialog_Config.Tab.Colors>색상</RimHUD.Dialog_Config.Tab.Colors>
+  <RimHUD.Dialog_Config.Tab.Content>내용물</RimHUD.Dialog_Config.Tab.Content>
+  <RimHUD.Dialog_Config.Tab.Integration>통합</RimHUD.Dialog_Config.Tab.Integration>
+
+  <RimHUD.InspectPane.OutfitFormat>장비: {0}</RimHUD.InspectPane.OutfitFormat>
+  <RimHUD.InspectPane.TimetableFormat>일정: {0}</RimHUD.InspectPane.TimetableFormat>
+  <RimHUD.InspectPane.AreaFormat>구역: {0}</RimHUD.InspectPane.AreaFormat>
+  <RimHUD.InspectPane.RulesDisabled>규칙: Disabled</RimHUD.InspectPane.RulesDisabled>
+  <RimHUD.InspectPane.MedicalCare>해당 림의 의료 서비스 수준 변경 {0}.\n\n현황: {1}</RimHUD.InspectPane.MedicalCare>
+
+  <RimHUD.Alert.SetToDefault>설정을 기본값으로 되돌리시겠습니까?</RimHUD.Alert.SetToDefault>
+  <RimHUD.Alert.NotImplemented>이 기능은 아직 구현되지 않았습니다.</RimHUD.Alert.NotImplemented>
+  <RimHUD.Alert.MoreComingSoon>더 많은 기능이 곧 출시될 예정입니다.™</RimHUD.Alert.MoreComingSoon>
+
+</LanguageData>

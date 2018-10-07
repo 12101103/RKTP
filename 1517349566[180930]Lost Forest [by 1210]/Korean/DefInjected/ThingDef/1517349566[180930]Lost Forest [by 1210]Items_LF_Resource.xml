@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Foxia Tears -->
+
+  <LF_FoxiaTears.label>꼬마 여우의 눈물</LF_FoxiaTears.label>
+  <LF_FoxiaTears.description>힘 빠진 꼬마 여우가 마지막으로 흘린 눈물입니다. 그녀들의 눈물은 상처를 치유한 힘을 가집니다. 잃어버린 고대 신성 거목의 기억을 떠올린다는 전설이 있다고 하네요.</LF_FoxiaTears.description>
+  <LF_FoxiaTears.comps.1.useLabel>꼬마 여우의 눈물 사용</LF_FoxiaTears.comps.1.useLabel>
+  <LF_FoxiaTears.stuffProps.stuffAdjective>꼬마 여우의 눈물</LF_FoxiaTears.stuffProps.stuffAdjective>
+
+
+  <!-- AncientHolyWood -->
+
+  <LF_WoodLog.label>신성 나무의 목재</LF_WoodLog.label>
+  <LF_WoodLog.description>잃어버린 고대 신성 거목의 레플리카 목재입니다. 신기한 힘으로 지켜지고 있어 결코 타오르지 않습니다. 이 목재로 만든 가구는 가볍게 견고합니다. 또한 정착민들의 질병에 막는 효과가 있습니다.</LF_WoodLog.description>
+  <LF_WoodLog.stuffProps.stuffAdjective>신성 나무 목재</LF_WoodLog.stuffProps.stuffAdjective>
+
+
+  <!-- Pressed Iron Scraps -->
+
+  <PressedIronScraps.label>압축된 철갑 조각</PressedIronScraps.label>
+  <PressedIronScraps.description>쇠 부스러기를 압축한 것으로 철재와 마찬가지로 건축에 사용할 수 있습니다. 용광로보다 신속하게 이용 가능한 자원으로 변환할 수 있다는 장점이 있지만 세간의 이용은 석재보다 훨씬 큰 패널티를 입는 점에 유의하세요. 용해하기로 동수의 쇠로 변환할 수도 있습니다.</PressedIronScraps.description>
+  <PressedIronScraps.stuffProps.stuffAdjective>조각</PressedIronScraps.stuffProps.stuffAdjective>
+
+
+</LanguageData>

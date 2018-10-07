@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <StraitjacketEscape>{0}이(가) 구속복에서 벗어났습니다!</StraitjacketEscape>
+  <OverpoweredExhausted>{1}은 너무 지쳐서 구속복으로 속박할 수 없습니다.</OverpoweredExhausted>
+  <OverpoweredMelee>{0}은 {1}에게 구속복을 입혀지지 않으려 하다가 제압당했습니다.</OverpoweredMelee>
+  <CannotRemoveByOneself>{0}은 스스로 구속복을 벗을 수 없습니다. 다른 사람이 벗겨줘야 합니다.</CannotRemoveByOneself>
+  <MessageRefusedStraitjacket>{0}은(는) 구속복을 입는 것을 거부합니다.</MessageRefusedStraitjacket>
+  <RemoveStraitjacket>{0}의 구속복을 벗깁니다.</RemoveStraitjacket>
+  <ForceStraitjacketUpon>{0}에게 강제로 구속복을 입힙니다.</ForceStraitjacketUpon>
+  <CannotForceStraitjacket>구속복을 입힐 수 없습니다.</CannotForceStraitjacket>
+  <CannotRemoveStraitjacket>구속복을 제거할 수 없습니다.</CannotRemoveStraitjacket>
+  <MentalBreakAvertedLetterLabel>손상 방지</MentalBreakAvertedLetterLabel>
+  <StraitjacketBenefit>다행히도 {0}의 구속복으로 인해 {2}로부터 {1}이(가) 손상되지 않았습니다.</StraitjacketBenefit>
+
+</LanguageData>

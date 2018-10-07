@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Lighting_MURWallLight.label>벽면 조명 (OLD)</Lighting_MURWallLight.label>
+  <Lighting_MURWallLight.description>벽에 장착하도록 설계된 조명 기구입니다.</Lighting_MURWallLight.description>
+  <Lighting_MURWallLight_Blueprint_Install.label>벽면 조명 (OLD) (청사진)</Lighting_MURWallLight_Blueprint_Install.label>
+  <Lighting_MURWallLightRed.label>벽면 조명 ((빨강)OLD)</Lighting_MURWallLightRed.label>
+  <Lighting_MURWallLightRed.description>벽에 장착하도록 설계된 빨간색 조명 기구입니다.</Lighting_MURWallLightRed.description>
+  <Lighting_MURWallLightRed_Blueprint_Install.label>벽면 조명 ((빨강)OLD) (청사진)</Lighting_MURWallLightRed_Blueprint_Install.label>
+  <Lighting_MURWallLightGreen.label>벽면 조명 ((녹색)OLD)</Lighting_MURWallLightGreen.label>
+  <Lighting_MURWallLightGreen.description>벽에 장착하도록 설계된 초록색 조명 기구입니다.</Lighting_MURWallLightGreen.description>
+  <Lighting_MURWallLightGreen_Blueprint_Install.label>벽면 조명 ((녹색)OLD) (청사진)</Lighting_MURWallLightGreen_Blueprint_Install.label>
+  <Lighting_MURWallLightBlue.label>벽면 조명 ((파랑)OLD)</Lighting_MURWallLightBlue.label>
+  <Lighting_MURWallLightBlue.description>벽에 장착하도록 설계된 파랑색 조명 기구입니다.</Lighting_MURWallLightBlue.description>
+  <Lighting_MURWallLightBlue_Blueprint_Install.label>벽면 조명 ((파랑)OLD) (청사진)</Lighting_MURWallLightBlue_Blueprint_Install.label>
+</LanguageData>

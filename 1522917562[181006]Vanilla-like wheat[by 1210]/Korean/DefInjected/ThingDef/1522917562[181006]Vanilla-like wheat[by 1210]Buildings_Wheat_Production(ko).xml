@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QuernLowTech.label>맷돌</QuernLowTech.label>
+  <QuernLowTech.description>기초적인 맷돌입니다. 작동하는데 전기도, 연료도 필요 없지만 밀을 가공하는데 많은 시간이 걸립니다.</QuernLowTech.description>
+  <QuernLowTech_Blueprint.label>맷돌 (청사진)</QuernLowTech_Blueprint.label>
+  <QuernLowTech_Blueprint_Install.label>맷돌 (청사진)</QuernLowTech_Blueprint_Install.label>
+  <QuernLowTech_Frame.label>맷돌 (건설 중)</QuernLowTech_Frame.label>
+  <QuernLowTech_Frame.description>기초적인 맷돌입니다. 작동하는데 전기도, 연료도 필요 없지만 밀을 가공하는데 많은 시간이 걸립니다.</QuernLowTech_Frame.description>
+  <QuernHighTech.label>제분기</QuernHighTech.label>
+  <QuernHighTech.description>전기를 이용해 작동하도록 만든 맷돌입니다. 전기를 필요로 하지만 밀을 가공하는 데는 매우 짧은 시간이 걸립니다. 매우 편리합니다.</QuernHighTech.description>
+  <QuernHighTech_Blueprint.label>제분기 (청사진)</QuernHighTech_Blueprint.label>
+  <QuernHighTech_Blueprint_Install.label>제분기 (청사진)</QuernHighTech_Blueprint_Install.label>
+  <QuernHighTech_Frame.label>제분기 (건설 중)</QuernHighTech_Frame.label>
+  <QuernHighTech_Frame.description>전기를 이용해 작동하도록 만든 맷돌입니다. 전기를 필요로 하지만 밀을 가공하는 데는 매우 짧은 시간이 걸립니다. 매우 편리합니다.</QuernHighTech_Frame.description>
+  <HayRack.label>건초 건조대</HayRack.label>
+  <HayRack.description>건초를 짚으로 말리기 위한 건조대입니다.</HayRack.description>
+  <HayRack_Blueprint.label>건초 건조대 (청사진)</HayRack_Blueprint.label>
+  <HayRack_Blueprint_Install.label>건초 건조대 (청사진)</HayRack_Blueprint_Install.label>
+  <HayRack_Frame.label>건초 건조대 (건설 중)</HayRack_Frame.label>
+  <HayRack_Frame.description>건초를 짚으로 말리기 위한 건조대입니다.</HayRack_Frame.description>
+</LanguageData>

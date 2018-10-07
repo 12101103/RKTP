@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MakeOneFlourLowTech.label>밀 1번 가공하기</MakeOneFlourLowTech.label>
+  <MakeOneFlourLowTech.description>밀은 밀가루와 건초를 생산하기 위해 가공할 수 있습니다.</MakeOneFlourLowTech.description>
+  <MakeOneFlourLowTech.jobString>밀 가공 중.</MakeOneFlourLowTech.jobString>
+  <MakeOneFlourHighTech.label>밀 1번 가공하기</MakeOneFlourHighTech.label>
+  <MakeOneFlourHighTech.description>밀은 밀가루와 건초를 생산하기 위해 가공할 수 있습니다.</MakeOneFlourHighTech.description>
+  <MakeOneFlourHighTech.jobString>밀 가공 중.</MakeOneFlourHighTech.jobString>
+  <MakeFlourLowTech.label>밀 가공하기</MakeFlourLowTech.label>
+  <MakeFlourLowTech.description>밀은 밀가루와 건초를 생산하기 위해 가공할 수 있습니다.</MakeFlourLowTech.description>
+  <MakeFlourLowTech.jobString>밀 가공 중.</MakeFlourLowTech.jobString>
+  <MakeFlourHighTech.label>밀 가공하기</MakeFlourHighTech.label>
+  <MakeFlourHighTech.description>밀은 밀가루와 건초를 생산하기 위해 가공할 수 있습니다.</MakeFlourHighTech.description>
+  <MakeFlourHighTech.jobString>밀 가공 중.</MakeFlourHighTech.jobString>
+  <MakeBatchFlourLowTech.label>밀 대량가공하기</MakeBatchFlourLowTech.label>
+  <MakeBatchFlourLowTech.description>밀은 밀가루와 건초를 생산하기 위해 가공할 수 있습니다.</MakeBatchFlourLowTech.description>
+  <MakeBatchFlourLowTech.jobString>밀 가공 중.</MakeBatchFlourLowTech.jobString>
+  <MakeBatchFlourHighTech.label>밀 대량가공하기</MakeBatchFlourHighTech.label>
+  <MakeBatchFlourHighTech.description>밀은 밀가루와 건초를 생산하기 위해 가공할 수 있습니다.</MakeBatchFlourHighTech.description>
+  <MakeBatchFlourHighTech.jobString>밀 가공 중.</MakeBatchFlourHighTech.jobString>
+</LanguageData>

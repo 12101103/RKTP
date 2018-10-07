@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wolvern -->
+
+  <LF_Wolvern.label>울번</LF_Wolvern.label>
+  <LF_Wolvern.description>환상적이고 이국적인 소녀 같은 풍모를 가진 동물입니다. 푹신푹신한 털에 덮인 늑대 같은 귀과 꼬리, 그리고 늘씬한 아름다운 우리 다리를 가집니다. 오랜 숲의 무녀의 신변 경호를 책임 지는 근위 경호대 중 한 명입니다. 자주 홀연히 모습을 지우고는 고민의 씨앗을 실어 온 상대에 그만 눈길이나 말을 곤두세우기 쉽지만, 상대를 염려하는 일을 잊지 않는 상냥한 일면도 있습니다. 일류의 실력으로, 자신의 육체를 무기로 동료를 지키겠습니다. 고향 숲이 파괴되고 뿔뿔이 되어 버린 동료들을 찾다가 놓치고 버린 것이 드물게 야생에 나타납니다. 모든 지역에 극히 드물게 출현합니다.(어느 쪽인가 하면 극지의 어려운 환경을 선호하는 경향이 적지만 있습니다.)</LF_Wolvern.description>
+  <LF_Wolvern.tools.0.label>블래이징 스매쉬 (왼손)</LF_Wolvern.tools.0.label>
+  <LF_Wolvern.tools.1.label>블래이징 스매쉬 (오른손)</LF_Wolvern.tools.1.label>
+  <LF_Wolvern.tools.2.label>갑옷 파괴 (왼쪽 다리)</LF_Wolvern.tools.2.label>
+  <LF_Wolvern.tools.3.label>다리 파괴 (오른쪽 다리)</LF_Wolvern.tools.3.label>
+  <LF_Wolvern.tools.4.label>갑옷 파괴 (머리)</LF_Wolvern.tools.4.label>
+  <LF_Wolvern.tools.5.label>다리 파괴 (꼬리)</LF_Wolvern.tools.5.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Meat Amount: 0 -->
+  <LF_Wolvern_Corpse.label>울번의 시체</LF_Wolvern_Corpse.label>
+  <LF_Wolvern_Corpse.description>울번의 시체</LF_Wolvern_Corpse.description>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ImpossibleToHarvest.label>부검 불가능</ImpossibleToHarvest.label>
+  <ImpossibleToHarvest.description>적출이 불가능한 시체를 허용합니다.</ImpossibleToHarvest.description>
+  <PossibleToHarvest.label>부검 가능</PossibleToHarvest.label>
+  <PossibleToHarvest.description>적출이 가능한 시체를 허용합니다.</PossibleToHarvest.description>
+  <HasBionics.label>생체공학 부위가 있는 인간 시체</HasBionics.label>
+  <HasBionics.description>이식물이 있는 시신만 허용합니다.</HasBionics.description>
+  <DoesntHaveBionics.label>생체공학 부위가 없는 인간 시체</DoesntHaveBionics.label>
+  <DoesntHaveBionics.description>이식물이 없는 시신만 허용합니다.</DoesntHaveBionics.description>
+  <ImpossibleToHarvestAnimal.label>부검 불가능(동물)</ImpossibleToHarvestAnimal.label>
+  <ImpossibleToHarvestAnimal.description>생체공학 부위가 있는 동물 시체</ImpossibleToHarvestAnimal.description>
+  <PossibleToHarvestAnimal.label>부검 가능(동물)</PossibleToHarvestAnimal.label>
+  <PossibleToHarvestAnimal.description>생체공학 부위가 없는 동물 시체</PossibleToHarvestAnimal.description>
+</LanguageData>

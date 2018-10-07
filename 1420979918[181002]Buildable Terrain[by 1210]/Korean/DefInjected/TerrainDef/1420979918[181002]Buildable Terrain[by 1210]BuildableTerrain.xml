@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <Soil.label>토양</Soil.label>-->
+  <Soil.description>재배에 적합한 기본 토양.</Soil.description>
+  <!--[Core] <Soil.tools.0.label>토양</Soil.tools.0.label>-->
+
+  <!--[Core] <Sand.label>모래</Sand.label>-->
+  <Sand.description>모든 곳에 퍼져 짜증나는 모래...</Sand.description>
+  <!--[Core] <Sand.tools.0.label>모래</Sand.tools.0.label>-->
+
+  <!--[Core] <MarshyTerrain.label>습지 토양</MarshyTerrain.label>-->
+  <MarshyTerrain.description>습지 토양은 지면이 끔찍하게 지저분해서 아군이나 적을 느리게 합니다..</MarshyTerrain.description>
+  <!--[Core] <MarshyTerrain.tools.0.label>습지 토양</MarshyTerrain.tools.0.label>-->
+
+  <!--[Core] <SoilRich.label>기름진 토양</SoilRich.label>-->
+  <SoilRich.description>재배하기에 완벽한 풍부한 토양.</SoilRich.description>
+  <!--[Core] <SoilRich.tools.0.label>기름진 토양</SoilRich.tools.0.label>-->
+
+  <!--[Core] <Mud.label>진흙</Mud.label>-->
+  <Mud.description>습하고 끈적거리는 진흙.</Mud.description>
+  <!--[Core] <Mud.tools.0.label>진흙</Mud.tools.0.label>-->
+
+  <!--[Core] <Gravel.label>자갈</Gravel.label>-->
+  <Gravel.description>식물이 자라기 힘든 척박한 땅.</Gravel.description>
+  <!--[Core] <Gravel.tools.0.label>자갈</Gravel.tools.0.label>-->
+
+  <!--[Core] <MossyTerrain.label>이끼 낀 땅</MossyTerrain.label>-->
+  <MossyTerrain.description>이끼로 덮인 흙.</MossyTerrain.description>
+
+  <!--[Core] <SoftSand.label>고운 모래</SoftSand.label>-->
+  <SoftSand.description>이끼로 덮인 흙.</SoftSand.description>
+  <!--[Core] <SoftSand.tools.0.label>고운 모래</SoftSand.tools.0.label>-->
+
+  <!--[Core] <Ice.label>얼음</Ice.label>-->
+  <Ice.description>얼음의 미끄럽고 단단한 부분.</Ice.description>
+
+  <!--[Core] <Marsh.label>늪지</Marsh.label>-->
+  <Marsh.description>아군과 적이 모두 느려지기 좋은 매우 지저분한 지형.</Marsh.description>
+  <!--[Core] <Marsh.tools.0.label>늪지</Marsh.tools.0.label>-->
+
+  <!--[Core] <WaterDeep.label>깊은 물</WaterDeep.label>-->
+  <!--[Core] <WaterDeep.tools.0.label>깊은 물</WaterDeep.tools.0.label>-->
+
+  <!--[Core] <WaterOceanDeep.label>깊은 바다</WaterOceanDeep.label>-->
+  <!--[Core] <WaterOceanDeep.tools.0.label>깊은 바다</WaterOceanDeep.tools.0.label>-->
+
+  <!--[Core] <WaterMovingChestDeep.label>깊게 흐르는 물</WaterMovingChestDeep.label>-->
+  <!--[Core] <WaterMovingChestDeep.tools.0.label>깊게 흐르는 물</WaterMovingChestDeep.tools.0.label>-->
+
+  <!--[Core] <WaterShallow.label>얕은 물</WaterShallow.label>-->
+  <!--[Core] <WaterShallow.tools.0.label>얕은 물</WaterShallow.tools.0.label>-->
+
+  <!--[Core] <WaterOceanShallow.label>얕은 바다</WaterOceanShallow.label>-->
+  <!--[Core] <WaterOceanShallow.tools.0.label>얕은 바다</WaterOceanShallow.tools.0.label>-->
+
+  <!--[Core] <WaterMovingShallow.label>얕게 흐르는 물</WaterMovingShallow.label>-->
+  <!--[Core] <WaterMovingShallow.tools.0.label>얕게 흐르는 물</WaterMovingShallow.tools.0.label>-->
+
+  <Smooth_Sandstone.label>매끄러운 사암</Smooth_Sandstone.label>
+  <Smooth_Sandstone.description>매끄럽게 다듬어진 사암 바닥</Smooth_Sandstone.description>
+
+  <Smooth_Marble.label>매끄러운 대리석</Smooth_Marble.label>
+  <Smooth_Marble.description>매끄럽게 다듬어진 대리석 바닥</Smooth_Marble.description>
+
+  <Smooth_Granite.label>매끄러운 화강암</Smooth_Granite.label>
+  <Smooth_Granite.description>매끄럽게 다듬어진 화강암 바닥</Smooth_Granite.description>
+
+  <Smooth_Slate.label>매끄러운 점판암</Smooth_Slate.label>
+  <Smooth_Slate.description>매끄럽게 다듬어진 점판암 바닥</Smooth_Slate.description>
+
+  <Smooth_Limestone.label>매끄러운 석회암</Smooth_Limestone.label>
+  <Smooth_Limestone.description>매끄럽게 다듬어진 석회암 바닥</Smooth_Limestone.description>
+
+
+</LanguageData>

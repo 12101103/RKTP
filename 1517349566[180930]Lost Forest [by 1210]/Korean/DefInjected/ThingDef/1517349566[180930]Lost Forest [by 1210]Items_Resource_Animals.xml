@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Leathers -->
+
+  <LF_LeffyFur.label>래피의 모피</LF_LeffyFur.label>
+  <LF_LeffyFur.description>하얗고 폭신폭신한 꼬마 모후의 모피입니다. 그것은 사람들의 질병에 대한 면역을 높이는 특별한 효력을 갖습니다.</LF_LeffyFur.description>
+  <LF_LeffyFur.stuffProps.stuffAdjective>꼬마 모후의 모피</LF_LeffyFur.stuffProps.stuffAdjective>
+
+
+  <!-- Wools -->
+
+  <LF_MofuMofu.label>복실복실 털</LF_MofuMofu.label>
+  <LF_MofuMofu.description>폭신폭신해서 아무생각 없이 만지고 싶은 고품격 털 뭉치입니다. 신기한 힘에 지켜지고 있고 불이 붙지 않아요. 가볍고 튼튼한 의류의 재료가 됩니다.</LF_MofuMofu.description>
+  <LF_MofuMofu.stuffProps.stuffAdjective>복실복실</LF_MofuMofu.stuffProps.stuffAdjective>
+
+  <LF_FukaFuka.label>말랑말랑 털</LF_FukaFuka.label>
+  <LF_FukaFuka.description>폭신폭신해서 아무생각 없이 만지고 싶은 고품격 털 뭉치입니다. 신기한 힘에 지켜지고 있고 불이 붙지 않아요. 가볍고 튼튼한 의류의 재료가 됩니다.</LF_FukaFuka.description>
+  <LF_FukaFuka.stuffProps.stuffAdjective>말랑말랑</LF_FukaFuka.stuffProps.stuffAdjective>
+
+  <LF_FuwaFuwa.label>둥실둥실 털</LF_FuwaFuwa.label>
+  <LF_FuwaFuwa.description>폭신폭신해서 아무생각 없이 만지고 싶은 고품격 털 뭉치입니다. 신기한 힘에 지켜지고 있고 불이 붙지 않아요. 가볍고 튼튼한 의류의 재료가 됩니다.</LF_FuwaFuwa.description>
+  <LF_FuwaFuwa.stuffProps.stuffAdjective>둥실둥실</LF_FuwaFuwa.stuffProps.stuffAdjective>
+
+
+  <!-- Azure Dragon Scales -->
+
+  <LF_AzureDragonScales.label>푸른 용의 비늘</LF_AzureDragonScales.label>
+  <LF_AzureDragonScales.description>용로부터 얻은 작은 용의 비늘이에요. 표면이 푸르고 아름다운 빛을 발하고 있습니다. 너무 작기 때문에 검의 재료에는 쓰지 않지만 푸른 용에 관련된 그 무엇의 제작물로 필요하게 될지도 모릅니다.</LF_AzureDragonScales.description>
+  <LF_AzureDragonScales.stuffProps.stuffAdjective>푸른 용의 비늘</LF_AzureDragonScales.stuffProps.stuffAdjective>
+
+
+  <!-- Dragonia Wisdom -->
+
+  <LF_DragoniaWisdom.label>용의 예지</LF_DragoniaWisdom.label>
+  <LF_DragoniaWisdom.description>푸른 용들이 물려받은, 용 황제 시대의 고룡 상형 문자로 쓰인 두루마리입니다. 안타깝게도 그것을 직접 읽어 낼 수는 없지만 이동에 담긴 강한 마력의 파동을 느낄 수 있습니다. 로스트 테크놀로지의 연구에 이용합니다.</LF_DragoniaWisdom.description>
+  <LF_DragoniaWisdom.stuffProps.stuffAdjective>Dragonia's wisdom</LF_DragoniaWisdom.stuffProps.stuffAdjective>
+
+
+  <!-- Arcane Crystal -->
+
+  <LF_ArcaneCrystal.label>고대의 결정</LF_ArcaneCrystal.label>
+  <LF_ArcaneCrystal.description>표면에 끊임없이 명멸을 반복 기하학적 무늬가 음양신 농청 색의 결정입니다. 푸른 용의 아이가 자유자재로 조종하고 있는 그것을 보면 소유자의 의사로 자유자재로 물성을 바꿀 수 있습니다. 안타깝게도, 정착민이 따라해도 아무런 변화도 일어나지 않습니다. 모종의 가공을 하는 일로 우리도 그 특성을 사용할 수 있을지 모릅니다.</LF_ArcaneCrystal.description>
+  <LF_ArcaneCrystal.stuffProps.stuffAdjective>arcane crystal</LF_ArcaneCrystal.stuffProps.stuffAdjective>
+
+
+  <!-- Eggs -->
+
+  <LF_EggFlammeliaUnfertilized.label>플라멜리아의 알(무정란)</LF_EggFlammeliaUnfertilized.label>
+  <LF_EggFlammeliaUnfertilized.description>거대한 플라멜리아의 무정란. 날것으로도 먹을 수 있지만 조리한 것이 더 맛있는 먹을 수 있습니다.</LF_EggFlammeliaUnfertilized.description>
+
+  <LF_EggFlammeliaFertilized.label>플라멜리아의 알(무정란)</LF_EggFlammeliaFertilized.label>
+  <LF_EggFlammeliaFertilized.description>거대한 플라멜리아의 유정란. 알맞은 온도를 유지하면서 이윽고 플라멜리아의 병아리가 부화합니다.</LF_EggFlammeliaFertilized.description>
+
+
+</LanguageData>

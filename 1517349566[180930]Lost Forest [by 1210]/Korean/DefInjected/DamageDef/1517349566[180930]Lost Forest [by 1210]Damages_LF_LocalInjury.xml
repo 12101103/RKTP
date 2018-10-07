@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Damage Defs -->
+
+  <LF_InjuryBase.deathMessage>{0} has been killed.</LF_InjuryBase.deathMessage>
+
+
+  <!-- 低体温症系 -->
+
+  <LF_Coldgrasp.label>차가운 손아귀</LF_Coldgrasp.label>
+  <LF_Coldgrasp.deathMessage>{0}은(는) 차가운 손아귀에 의해 사망했습니다..</LF_Coldgrasp.deathMessage>
+
+  <LF_Iciclebash.label>아이시컬 배쉬</LF_Iciclebash.label>
+  <LF_Iciclebash.deathMessage>{0}은(는) 아이시컬 배쉬에 의해 사망했습니다.</LF_Iciclebash.deathMessage>
+
+  <LF_Glacialbite.label>글레이셜 바이트</LF_Glacialbite.label>
+  <LF_Glacialbite.deathMessage>{0}은(는) 글레이셜 바이트에 의해 사망했습니다.</LF_Glacialbite.deathMessage>
+
+  <LF_Hailblast.label>헤일 블라스트</LF_Hailblast.label>
+  <LF_Hailblast.deathMessage>{0}은(는) 헤일 블라스트에 의해 사망했습니다.</LF_Hailblast.deathMessage>
+
+  <LF_Cocytus.label>코카투스</LF_Cocytus.label>
+  <LF_Cocytus.deathMessage>{0}은(는) 영구적으로 코카투스에 냉동되었습니다.</LF_Cocytus.deathMessage>
+
+
+  <!-- 熱中症系 -->
+
+  <LF_Blazingsmash.label>블래이징 스매쉬</LF_Blazingsmash.label>
+  <LF_Blazingsmash.deathMessage>{0}은(는) 폭격을 받아 사망했습니다.</LF_Blazingsmash.deathMessage>
+
+  <LF_Burningcharge.label>버닝 차지</LF_Burningcharge.label>
+  <LF_Burningcharge.deathMessage>{0}은(는) 화상으로 인해 사망했습니다.</LF_Burningcharge.deathMessage>
+
+  <LF_Heatbite.label>힛 바이트</LF_Heatbite.label>
+  <LF_Heatbite.deathMessage>{0}은(는) 힛 바이트로 인해 사망했습니다.</LF_Heatbite.deathMessage>
+
+  <LF_Heatlance.label>힛 랜스</LF_Heatlance.label>
+  <LF_Heatlance.deathMessage>{0}은(는) 힛 랜스로 인해 사망했습니다.</LF_Heatlance.deathMessage>
+
+  <LF_Flareblast.label>플래어 블래스트</LF_Flareblast.label>
+  <LF_Flareblast.deathMessage>{0}이(가) 플래어 블래스트로 인해 연소되었습니다.</LF_Flareblast.deathMessage>
+
+  <LF_Inferno.label>인페르노</LF_Inferno.label>
+  <LF_Inferno.deathMessage>{0}은(는) 붉은 인페르노로 인해 재로 불태워졌습니다.</LF_Inferno.deathMessage>
+
+
+  <!-- 蓄積毒系 -->
+
+  <LF_Poisonstab.label>독침</LF_Poisonstab.label>
+  <LF_Poisonstab.deathMessage>{0}은(는) 독침으로 인해 목숨을 사망했습니다.</LF_Poisonstab.deathMessage>
+
+  <LF_ThornStab.label>가시 침</LF_ThornStab.label>
+  <LF_ThornStab.deathMessage>{0}은(는) 가시에 찔려 사망했습니다.</LF_ThornStab.deathMessage>
+
+  <LF_Deadlypoison.label>죽음의 독</LF_Deadlypoison.label>
+  <LF_Deadlypoison.deathMessage>{0}은(는) 치명적인 독을 앓다가 사망했습니다.</LF_Deadlypoison.deathMessage>
+
+
+  <!-- 盲目 -->
+
+  <LF_Sandblast.label>샌드 블래스트</LF_Sandblast.label>
+  <LF_Sandblast.deathMessage>{0}은(는) 샌드 블래스트로 인해 사망했습니다.</LF_Sandblast.deathMessage>
+
+
+  <!-- 装甲破壊 -->
+
+  <LF_Armorbreak.label>갑옷 파괴</LF_Armorbreak.label>
+  <LF_Armorbreak.deathMessage>{0}은(는) 갑옷 파괴로 인해 사망했습니다.</LF_Armorbreak.deathMessage>
+
+
+  <!-- 脚部破壊 -->
+
+  <LF_Legbreak.label>다리 파괴</LF_Legbreak.label>
+  <LF_Legbreak.deathMessage>{0}은(는) 다리 파괴의 충격으로 사망했습니다.</LF_Legbreak.deathMessage>
+
+
+  <!-- 失血 -->
+
+  <LF_Bloodleech.label>피 거머리</LF_Bloodleech.label>
+  <LF_Bloodleech.deathMessage>{0}은(는) 혈액 손실로 인해 사망했습니다.</LF_Bloodleech.deathMessage>
+
+
+  <!-- 飢餓 -->
+
+  <LF_Famine.label>기근</LF_Famine.label>
+  <LF_Famine.deathMessage>{0}은(는) 영양실조로 사망했습니다.</LF_Famine.deathMessage>
+
+
+  <!-- 疫病 -->
+
+  <LF_Pestilence.label>역병</LF_Pestilence.label>
+  <LF_Pestilence.deathMessage>{0}은(는) 역병으로 사망했습니다.</LF_Pestilence.deathMessage>
+
+
+  <!-- 龍印 -->
+
+  <LF_DragonicSigil.label>용인</LF_DragonicSigil.label>
+  <LF_DragonicSigil.deathMessage>{0}은(는) 용인이 새겨져 사망했습니다.</LF_DragonicSigil.deathMessage>
+
+
+</LanguageData>

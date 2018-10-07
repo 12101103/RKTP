@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+  <RimHUD.RelationKindAndFaction>{0}{1}{2}</RimHUD.RelationKindAndFaction>
+  <RimHUD.OfFaction> of {0}</RimHUD.OfFaction>
+
+  <RimHUD.Faction.Own>아군 </RimHUD.Faction.Own>
+  <RimHUD.Faction.Wild>야생의</RimHUD.Faction.Wild>
+  <RimHUD.Faction.Allied>동맹의 </RimHUD.Faction.Allied>
+  <RimHUD.Faction.Enemy>적의 </RimHUD.Faction.Enemy>
+  <RimHUD.Faction.Hostile>적대적인 </RimHUD.Faction.Hostile>
+  <RimHUD.Faction.Independent>독립된 </RimHUD.Faction.Independent>
+
+  <RimHUD.Creature.Wild>동물</RimHUD.Creature.Wild>
+  <RimHUD.Creature.Tame>길들여진 동물</RimHUD.Creature.Tame>
+  <RimHUD.Creature.Stray>길 잃은 동물</RimHUD.Creature.Stray>
+  <RimHUD.Creature.Pet>애완 동물</RimHUD.Creature.Pet>
+  <RimHUD.Creature.ExoticPet>이국적인 애완동물</RimHUD.Creature.ExoticPet>
+  <RimHUD.Creature.Predator>포식 동물</RimHUD.Creature.Predator>
+  <RimHUD.Creature.Hunt>사냥용 동물</RimHUD.Creature.Hunt>
+  <RimHUD.Creature.Pack>운반용 동물</RimHUD.Creature.Pack>
+  <RimHUD.Creature.Farm>경작용 동물</RimHUD.Creature.Farm>
+  <RimHUD.Creature.Herd>목축용 동물</RimHUD.Creature.Herd>
+  <RimHUD.Creature.Insect>곤충</RimHUD.Creature.Insect>
+  <RimHUD.Creature.Beast>동물</RimHUD.Creature.Beast>
+
+  <RimHUD.GenderAndAge>{0}{1}의 나이는 {2}</RimHUD.GenderAndAge>
+  <RimHUD.Age.Birthday> (오늘 생일)</RimHUD.Age.Birthday>
+  <RimHUD.Age.Day> 그리고</RimHUD.Age.Day>
+  <RimHUD.Age.Days>년 그리고 {0} 일</RimHUD.Age.Days>
+
+  <RimHUD.Bar.Health>건강</RimHUD.Bar.Health>
+  <RimHUD.Bar.Rest>휴식</RimHUD.Bar.Rest>
+  <RimHUD.Bar.Food>음식</RimHUD.Bar.Food>
+  <RimHUD.Bar.Recreation>오락</RimHUD.Bar.Recreation>
+  <RimHUD.Bar.Mood>기분</RimHUD.Bar.Mood>
+
+  <RimHUD.Health.Dead>죽음</RimHUD.Health.Dead>
+  <RimHUD.Health.Incapacitated>무능력하게 됨</RimHUD.Health.Incapacitated>
+  <RimHUD.Health.Bleed>출혈 중 {0}</RimHUD.Health.Bleed>
+  <RimHUD.Health.Tend>{0} 상태가 호전될 필요가 있음</RimHUD.Health.Tend>
+  <RimHUD.Health.TendPlural>{0} 상태가 호전될 필요가 있음</RimHUD.Health.TendPlural>
+  <RimHUD.Health.Threat>{0}에게 생명을 위협받음</RimHUD.Health.Threat>
+  <RimHUD.Health.ThreatPlural> {0}에게 생명을 위협받고 있습니다.</RimHUD.Health.ThreatPlural>
+  <RimHUD.Health.Sick>{0}로 고통받는 중</RimHUD.Health.Sick>
+  <RimHUD.Health.SickPlural>{0} 및 {1}, 다른 상태로 인한 고통</RimHUD.Health.SickPlural>
+  <RimHUD.Health.Stable>안정된 건강상태</RimHUD.Health.Stable>
+
+  <RimHUD.Mood.ExtremeBreakImminent>우울함</RimHUD.Mood.ExtremeBreakImminent>
+  <RimHUD.Mood.MajorBreakImminent>불행함</RimHUD.Mood.MajorBreakImminent>
+  <RimHUD.Mood.MinorBreakImminent>스트레스받음</RimHUD.Mood.MinorBreakImminent>
+  <RimHUD.Mood.Happy>행복함</RimHUD.Mood.Happy>
+  <RimHUD.Mood.Content>만족중</RimHUD.Mood.Content>
+  <RimHUD.Mood.Indifferent>무관심함</RimHUD.Mood.Indifferent>
+
+  <RimHUD.Info.Equipped>무기: {0}</RimHUD.Info.Equipped>
+  <RimHUD.Info.Activity>활동: {0}</RimHUD.Info.Activity>
+
+</LanguageData>
